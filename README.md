@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.jpg" alt="Rainy neon street at night" width="100%">
+  <img src="banner.gif" alt="Rainy neon street at night" width="100%">
 </p>
 
 <p align="center">
