@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  <code>[ ERROR 404: Sleep not found. coding anyway. ]</code>
+  <code>[ npm start — another app nobody asked for. ]</code>
 </p>
