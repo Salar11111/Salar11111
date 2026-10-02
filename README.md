@@ -97,10 +97,6 @@ Most of the work is role-based systems, management portals, and responsive inter
   <img src="https://streak-stats.demolab.com?user=Salar11111&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=e879f9&currStreakLabel=22d3ee&sideLabels=c9d1d9&dates=8b949e" alt="GitHub streak" height="165">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Salar11111&bg_color=0d1117&color=c9d1d9&line=22d3ee&point=e879f9&area=true&hide_border=true" alt="Contribution graph" width="100%">
-</p>
-
 ## Contact
 
 - Email: [muhammadabubakarsalar@gmail.com](mailto:muhammadabubakarsalar@gmail.com)
