@@ -21,6 +21,9 @@
   <a href="mailto:muhammadabubakarsalar@gmail.com">
     <img src="https://img.shields.io/badge/Email-muhammadabubakarsalar-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://www.linkedin.com/in/muhammadabubakarsalar">
+    <img src="https://img.shields.io/badge/LinkedIn-muhammadabubakarsalar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </p>
 
 ---
@@ -100,6 +103,7 @@ Most of the work is role-based systems, management portals, and responsive inter
 ## Contact
 
 - Email: [muhammadabubakarsalar@gmail.com](mailto:muhammadabubakarsalar@gmail.com)
+- LinkedIn: [linkedin.com/in/muhammadabubakarsalar](https://www.linkedin.com/in/muhammadabubakarsalar)
 - GitHub: [github.com/Salar11111](https://github.com/Salar11111)
 - Location: Gujrat, Pakistan
 - Open to freelance MERN and Next.js work
